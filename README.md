@@ -1,6 +1,6 @@
 ## What's this?
 
-It should be noted: 🚨 **OpenSSL 1.0 is no longer supported and no longer receives updates.** 🚨 Ideally, you wouldn't use this version of OpenSSL all!  However, this is not an ideal world, and sometimes you have the need to install legacy software that depends on OpenSSL 1.0.  
+It should be noted: 🚨 **OpenSSL 1.0 is no longer supported and no longer receives updates.** 🚨 Ideally, you wouldn't use this version of OpenSSL at all!  However, this is not an ideal world, and sometimes you have the need to install legacy software that depends on OpenSSL 1.0.  
 
 I was personally motivated by wanting to install old versions of Ruby.  On macOS, attempts to install old versions of Ruby would result in messages like:
 
