@@ -37,7 +37,7 @@ brew install https://raw.githubusercontent.com/hynkle/homebrew-legacy-openssl/ma
 Something like this:
 
 ```
-RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix)" asdf install ruby 2.1.8
+RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.0)" asdf install ruby 2.1.8
 ```
 
 ## Documentation
